@@ -24,7 +24,7 @@ public class App {
 		if (a < 18) {
 			return "Hello";
 		} else {
-			return "Bye bye";
+			return "Bye";
 		}
 	}
 }
